@@ -1,0 +1,9 @@
+C:\Users\ricks\Documents\Visual Studio 2015\Projects\GrProg_1(3var)\GrProg_1(3var)\bin\Debug\GrProg_1(3var).exe.config
+C:\Users\ricks\Documents\Visual Studio 2015\Projects\GrProg_1(3var)\GrProg_1(3var)\obj\Debug\GrProg_1(3var).csprojResolveAssemblyReference.cache
+C:\Users\ricks\Documents\Visual Studio 2015\Projects\GrProg_1(3var)\GrProg_1(3var)\obj\Debug\GrProg_1_3var_.Properties.Resources.resources
+C:\Users\ricks\Documents\Visual Studio 2015\Projects\GrProg_1(3var)\GrProg_1(3var)\obj\Debug\GrProg_1(3var).csproj.GenerateResource.Cache
+C:\Users\ricks\Documents\Visual Studio 2015\Projects\GrProg_1(3var)\GrProg_1(3var)\bin\Debug\GrProg_1(3var).exe
+C:\Users\ricks\Documents\Visual Studio 2015\Projects\GrProg_1(3var)\GrProg_1(3var)\bin\Debug\GrProg_1(3var).pdb
+C:\Users\ricks\Documents\Visual Studio 2015\Projects\GrProg_1(3var)\GrProg_1(3var)\obj\Debug\GrProg_1(3var).exe
+C:\Users\ricks\Documents\Visual Studio 2015\Projects\GrProg_1(3var)\GrProg_1(3var)\obj\Debug\GrProg_1(3var).pdb
+C:\Users\ricks\Documents\Visual Studio 2015\Projects\GrProg_1(3var)\GrProg_1(3var)\obj\Debug\GrProg_1_3var_.Form1.resources
